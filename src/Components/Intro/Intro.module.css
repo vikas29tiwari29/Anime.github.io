@@ -1,0 +1,25 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    background-color: #2f292e;
+    position: relative;
+    
+}
+.IntroContainer{
+    width: 80%;
+    
+}
+.Ic{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 20px 70px;
+
+}
+.h1{
+    text-align: center;
+}

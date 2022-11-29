@@ -1,0 +1,47 @@
+.fightContainer{
+    background-color: #2f292e;
+    margin-top:-23px;
+    padding: 0;
+    height: 100%;
+}
+.f{
+    height: 200px;
+    width:200px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-left:50px;
+    position: relative;
+    right: 30px;
+}
+h2 {
+    position: relative;
+    left: 23px;
+}
+hr{
+    border:1px solid white;
+    background-color: white;
+}
+h3{
+    position: relative;
+    left: 33px;
+}
+.p{
+    position: relative;
+    bottom: 200px;
+    font-size: 20px;
+    width:1000px;
+    left: 250px;
+    
+}
+li{
+    margin-bottom:-120px;
+}
+.h1{
+    text-align: center;
+    padding-top:20px;
+
+}
+.f:hover{
+    transform: scale(1.1);
+    border: 3px solid black;
+}

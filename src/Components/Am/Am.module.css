@@ -1,0 +1,33 @@
+.content{
+    border: 2px solid rgb(24, 23, 23);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 60%;
+    flex-wrap: wrap;
+    background-color: #2f292e;
+}
+.ImageBox{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+   margin: 10px;
+    box-shadow: 0px 0px 5px black;
+    border-radius: 15px;
+}
+.ImageImg{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+    border-radius: 15px;
+}
+.ImageBox:hover{
+    background-color: black;
+    color: red;
+}
+h2{
+    position: relative;
+    left: 50px;
+}

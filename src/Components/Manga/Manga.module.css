@@ -1,0 +1,22 @@
+.ibox{
+    background-color: #2f292e;
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    margin: 3px;
+}
+.i1{
+    border: 1px solid black;
+    height: 250px;
+    width: 300px;
+}
+.i2{
+    border: 1px solid black;
+    height: 250px;
+    width: 200px;
+}
+.i3{
+    border: 1px solid black;
+    height: 250px;
+    width: 300px;
+}
